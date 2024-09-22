@@ -1,16 +1,22 @@
 # ESP32_PIR_Sensor_Telegram
 ENG
+
 Pir sensor with telegram messages support
 
 You can verify that the bot is online and working by writing anything in the chat, the bot responds by replicating what you write
 
 File Test01_HCSR505.ino test funzionamento del sensore (no bot telegram)
 
-File PIR_Alarm_Telegram.ino programma principale
+File PIR_Alarm_Telegram.ino Main program
+
+
+ITA
 
 ESP32 con sensore PIR che avvisa via telegram quando rileva movimento
+Puoi verificare che il bot sia online e funzionante scrivendo qualsiasi cosa in chat, il bot risponde replicando quello che scrivi
 
 File Test01_HCSR505.ino test funzionamento del sensore (no bot telegram)
+
 File PIR_Alarm_Telegram.ino programma principale
 
 
