@@ -6,6 +6,7 @@
  * For more detail (instruction and wiring diagram), visit https://esp32io.com/tutorials/esp32-motion-sensor-piezo-buzzer
  *
  * Modified by Diegooz for some tests. https://www.youtube.com/@PixelsSquad
+ * Accende un led quando il sensore di movimento HCSR505 rileva qualcosa. In questo caso il pin 2 è quello del led integrato alla schedina.
  */
 
 #define MOTION_SENSOR_PIN  13  // PIN DELL'ESP32 DOVE è CONNESSA L'USCITA DEL SENSORE HCSR505
