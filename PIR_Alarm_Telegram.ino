@@ -25,8 +25,8 @@ int motionStatePrevious = LOW; // previous state of motion sensor's pin
 #define WIFI_PASSWORD "diegodiego"  // Password della tua rete WiFi
 
 // Telegram
-#define BOT_TOKEN "7610577398:AAF_AMelJuAxGpEAR4nKToBji-1dZ6VMZRk" // Telegram BOT Token (Dal bot Botfather)
-#define CHAT_ID "1676698197"   //Recuperalo con @myidbot o @getidsbot
+#define BOT_TOKEN "xxxxxxxxx:yyyyyyyyyyyyyyyyyyy" // Telegram BOT Token (Dal bot Botfather)
+#define CHAT_ID "zzzzzzzzzzzzz"   //Recuperalo con @myidbot o @getidsbot
 
 
 const unsigned long BOT_MTBS = 1000; // mean time between scan messages
