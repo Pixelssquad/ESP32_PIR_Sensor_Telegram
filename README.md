@@ -1,6 +1,5 @@
 # ESP32_PIR_Sensor_Telegram
-ENG
-
+ENG <br> 
 Pir sensor with telegram messages support
 
 You can verify that the bot is online and working by writing anything in the chat, the bot responds by replicating what you write
