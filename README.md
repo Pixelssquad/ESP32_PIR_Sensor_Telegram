@@ -15,6 +15,11 @@ File PIR_Alarm_Telegram.ino programma principale<br>
 
 ![IMG20240922124649](https://github.com/user-attachments/assets/666500fe-64ab-4f56-8b60-c0e9b6c537aa)
 ![1](https://github.com/user-attachments/assets/88d3b67b-f001-4526-ac62-2ba6793924bc)
+![Pir_sensor_telegram_bb1](https://github.com/user-attachments/assets/24f03255-75aa-403d-a894-70fb4d896c73)
+
+Added a relay connected to pin 2, is the shared pin with the onboard led
+Aggiunto relé al pin 2, è quello condiviso con il led sulla scheda (nel mio caso)
+![IMG20240924131833](https://github.com/user-attachments/assets/0e6dbebc-41f4-4d0d-86ba-488589503b8e)
 
 Ideas From:
 https://randomnerdtutorials.com/telegram-esp8266-nodemcu-motion-detection-arduino/
