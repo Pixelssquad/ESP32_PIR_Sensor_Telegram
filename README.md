@@ -16,7 +16,7 @@ File PIR_Alarm_Telegram.ino programma principale<br>
 ![IMG20240922124649](https://github.com/user-attachments/assets/666500fe-64ab-4f56-8b60-c0e9b6c537aa)
 ![1](https://github.com/user-attachments/assets/88d3b67b-f001-4526-ac62-2ba6793924bc)
 ![Pir_sensor_telegram_bb1](https://github.com/user-attachments/assets/24f03255-75aa-403d-a894-70fb4d896c73)
-![Immagine WhatsApp 2024-09-24 ore 13 29 29_0f335b14](https://github.com/user-attachments/assets/5de6943c-dbd2-4737-be0c-49c3cc6c31c9)
+![telegram_example](https://github.com/user-attachments/assets/a1a75d39-5184-4a56-ac33-0e794f191cfb)
 
 
 Added a relay connected to pin 2, is the shared pin with the onboard led<br> 
