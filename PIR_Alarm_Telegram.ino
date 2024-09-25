@@ -26,7 +26,7 @@ int motionStatePrevious = LOW; // previous state of motion sensor's pin
 
 // Telegram
 #define BOT_TOKEN "xxxxxxxxx:yyyyyyyyyyyyyyyyyyy" // Telegram BOT Token (Dal bot Botfather)
-#define CHAT_ID "zzzzzzzzzzzzz"   //Recuperalo con @myidbot o @getidsbot
+#define CHAT_ID "zzzzzzzzzzzzz"   //Recuperalo da https://api.telegram.org/botXXXXXXXXXXXXX/getUpdates dove XXXX è il token del bot
 
 
 const unsigned long BOT_MTBS = 1000; // mean time between scan messages
